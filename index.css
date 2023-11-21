@@ -1,0 +1,22 @@
+.st{
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    background-color:green;
+    color:white;
+}
+.sp{
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+   background-color: red;
+   color:white;
+
+}
+.rs{
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    background-color:blue;
+    color:white;
+}
